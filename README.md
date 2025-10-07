@@ -1,5 +1,6 @@
 # Ex03 Time Table
-## Date:
+## Date: 07.10.25
+## DHARANI.A
 
 ## AIM
 To write a html webpage page to display your slot timetable.
